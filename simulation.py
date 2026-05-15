@@ -1,3 +1,6 @@
+from filters import apply_capacitor_filter, apply_inductor_filter, apply_resistor_filter
+import numpy as np
+
 def combine_driver_responses(drivers_data, filters):
     """
     Combine multiple driver responses with filter effects into a final frequency response.
