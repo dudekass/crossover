@@ -1,3 +1,5 @@
+import matplotlib.pyploy as plt
+
 def plot_responses(freqs, final_mags, final_phases, filtered_responses, driver_names, figsize=(12, 10)):
     """
     Plot raw, filtered, and combined responses.
