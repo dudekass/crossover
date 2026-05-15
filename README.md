@@ -149,6 +149,6 @@ This project grew out of practical frustration — designing crossovers for [Maa
  
 ## Author
  
-Eduarda (Duda) [Last Name]
+Duda Alves
 Computer Engineering, Brigham Young University
-[your email] · [your LinkedIn] · [your GitHub]
+[dudaliteracy@gmail.com] · [dudekass]
